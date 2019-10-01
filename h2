@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>lists HTML</title>
+</head>
+<body>
+<ul>
+<li>naveen</li>
+</ul>
+<ol>
+<li>ceo</li>
+</ol>
+<marquee>naveen ceo of sahoo.communications</marquee>
+</body>
+</html>
